@@ -1,6 +1,6 @@
 ### Olá Seja Bem-Vindo 👋
-- 🔭 Sou Dev Mobile Full Stack
-- 🧠 Oque Conheço: Kotlin, Android, MySql, Java Script, TypeScript, Html, Css, Nest Js.
+- 🔭 Sou Dev Mobile e Full Stack
+- 🧠 Oque Conheço: C3, .Net Kotlin, Android, MySql, Java Script, TypeScript, Html, Css, Nest Js.
 - 💻 Informações Adicionais: Estou Crusando Faculdade de Ads | Sou tabém Webdesign e Ui/Ux Design
 - 💬 Saiba mais sobre mim: https://www.linkedin.com/in/gabriela-guimar%C3%A3es-011600241/
 - 📫 Contrate-me: guimaraes.gabi.souza@gmail.com
